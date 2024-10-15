@@ -4,6 +4,8 @@
 
 A playground for experimenting with acoustic echo cancellation using a microphone, speaker, and ONNX.
 
+![image](https://github.com/user-attachments/assets/4ee84e89-12ee-400c-9550-23ac70ad7315)
+
 ## 0. Environment
 + Ubuntu22.04
 + Python3.10
