@@ -1,6 +1,8 @@
 # onnx-aec
 
-**This real-time echo cancellation implementation using ONNX is unstable, and there is a problem that the voice after echo cancellation sounds distorted. I am not familiar with voice processing, so I am struggling with this. I welcome any suggestions for improvement from those knowledgeable in audio processing.**
+~**This real-time echo cancellation implementation using ONNX is unstable, and there is a problem that the voice after echo cancellation sounds distorted. I am not familiar with voice processing, so I am struggling with this. I welcome any suggestions for improvement from those knowledgeable in audio processing.**~
+
+**This repository does not implement a solution to the issue of noise in the audio, but I solved it myself.**
 
 A playground for experimenting with acoustic echo cancellation using a microphone, speaker, and ONNX.
 
